@@ -10,6 +10,11 @@ const main = () => {
         `;
         root.appendChild(spawnPage);
     }
+
+
+
+
+    
     createSpawnPage()
 }
 
