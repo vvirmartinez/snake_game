@@ -1,0 +1,2 @@
+const CANVAS_SQUERE = 500
+const CANVAS_DIVISION = 16
